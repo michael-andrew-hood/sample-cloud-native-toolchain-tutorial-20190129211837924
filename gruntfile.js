@@ -5,6 +5,8 @@ var _ = require('lodash');
 
 var desireds = require('./desireds');
 
+//Merge conflict here
+
 var gruntConfig = {
   env: {
       // dynamically filled
